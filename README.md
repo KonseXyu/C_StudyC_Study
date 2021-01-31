@@ -1,3 +1,4 @@
+程序： W.S 学生成绩管理
 
 作者：空山新愚 & huangyixuan 
 更新日期：2021.1.31 
@@ -25,5 +26,5 @@ KMidfilename = "KM_info.txt" ;
 Outfilename = "Stu_Info_Output.txt" ;
 
 密码信息 
-Passwordname = "Password_Stu" ;# C_StudyC_Study
+Passwordname = "Password_Stu" ;
 
